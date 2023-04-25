@@ -21,6 +21,7 @@ a {
 .btn {
   background-color: rgba(182, 182, 182, 0.5);
   border: 2px solid rgba(54, 54, 54, 0.158);
+  box-shadow: 0 0 15px rgba(54, 54, 54, 0.358);
 }
 .container-view {
   padding: 50px 20px;
